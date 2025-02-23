@@ -1,0 +1,20 @@
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Arquivos de configuração de ambiente virtual
+.env/
+.venv/
+env/
+venv/
+
+# Arquivos de saída e temporários
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+*.db
+*.sqlite
+
+# Arquivos do sistema (só no macOS e Windows)
+.DS_Store
+Thumbs.db
